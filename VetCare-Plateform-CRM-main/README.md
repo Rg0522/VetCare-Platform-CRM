@@ -1,6 +1,6 @@
 # VetCare Platform CRM
 
-[Live Demo](https://vet-care-plateform-crm.vercel.app/) | [GitHub Repo]([https://github.com/Rg0522/VetCare-Platform-CRM])
+[Live Demo](https://vet-care-plateform-crm.vercel.app/) | [GitHub Repo](https://github.com/Rg0522/VetCare-Platform-CRM/)
 
 ---
 
